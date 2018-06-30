@@ -1,4 +1,4 @@
-baseurl = "crup.io"
+baseurl = "/"
 languageCode = "en-us"
 title = "T. Crupi"
 theme = "hugo-classic"
