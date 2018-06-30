@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:tr33sa/tr33sa.github.io.git
+	branch = master
